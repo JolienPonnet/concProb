@@ -7,7 +7,7 @@ Authors@R: c(
             person(given = "Robin", family = "Van Oirbeek", role = c("aut")),
             person(given = "Bart", family = "Baesens", role = c("aut")),
             person(given = "Tim", family = "Verdonck", role = c("aut"))) 
-Description: This package gives two estimation methods to calculate the concordance probability in an efficient way, both for a continuous and a discrete setting.
+Description: This package gives two estimation methods to approximate the concordance probability in an efficient way, both for a continuous and a discrete setting.
 Depends: R (>= 3.6.0)
 Imports: data.table, R2DT, devFunc, stats
 Suggests: MASS

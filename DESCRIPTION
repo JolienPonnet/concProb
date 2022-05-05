@@ -1,6 +1,6 @@
 Package: concProb
 Type: Package
-Title: Concordance probability for large datasets
+Title: Concordance probability for large data sets
 Version: 1.0.0
 Authors@R: c(
             person(given = "Jolien", family = "Ponnet", role = c("aut", "cre"), email = "jolien.ponnet@kuleuven.be"),
